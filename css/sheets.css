@@ -1,11 +1,33 @@
-h1 {
+* {
+    font-family: "Monaco", "Lucida Console", monospace;
+}
+
+
+body {
+    background-color: rgb(235, 235, 229);
+}
+
+
+.opener {
     color: white;
     background-color: red;
     text-align: center;
     font-size: 32px;
 }
 
+
 img {
     width: 1000;
     height: auto;
+}
+
+
+.imgdesc {
+    font-size: small;
+    font-style: italic;
+}
+
+
+.directions li {
+    padding-bottom: 1em;
 }
