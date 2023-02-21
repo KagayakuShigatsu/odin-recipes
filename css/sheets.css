@@ -16,13 +16,25 @@ body {
 }
 
 
+.leadin,
+.description {
+    color: green;
+}
+
+
+.ingredients {
+    color: rgb(179, 179, 46)
+}
+
+
 img {
     width: 1000;
     height: auto;
 }
 
 
-.imgdesc {
+.imgdesc,
+.note {
     font-size: small;
     font-style: italic;
 }
